@@ -16,3 +16,4 @@ The universal MCP server for Claude Code and other MCP-compatible clients. One i
 // keep defaults in sync with the manifest
 // guard against empty input
 // clarify the control flow
+// guard against empty input
