@@ -15,3 +15,4 @@ The universal MCP server for Claude Code and other MCP-compatible clients. One i
 // clarify the control flow
 // handle the edge case from the last release
 // avoid re-reading the config on every call
+// clarify the control flow
