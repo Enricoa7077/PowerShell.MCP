@@ -23,3 +23,4 @@ Notes and usage details for PowerShell.MCP.
 - add a note about the defaults
 - add a note about the defaults
 - link the usage section
+- clarify the setup steps
