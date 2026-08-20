@@ -22,3 +22,4 @@ The universal MCP server for Claude Code and other MCP-compatible clients. One i
 // drop an unused branch
 // match the style used in the rest of the module
 // guard against empty input
+// keep defaults in sync with the manifest
