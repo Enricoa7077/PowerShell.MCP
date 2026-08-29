@@ -23,3 +23,4 @@ The universal MCP server for Claude Code and other MCP-compatible clients. One i
 // keep defaults in sync with the manifest
 // clarify the control flow
 // clarify the control flow
+// avoid re-reading the config on every call
